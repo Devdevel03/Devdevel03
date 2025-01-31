@@ -12,6 +12,7 @@ My journey in computer science has sparked a strong interest in cybersecurity, w
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | html,css         | <a href="https://github.com/Devdevel03/eshop-frontend">Frontend eshop</a>|
+| python,socket programming         | <a href="https://github.com/Devdevel03/Client-Server">Client Server application</a>|
 
 ## Tools
 ### Network
