@@ -7,7 +7,6 @@ As a 4th-year BSc Computer Science student, I am passionate about technology and
 My journey in computer science has sparked a strong interest in cybersecurity, while also encouraging me to explore various other areas within the field. I am now eager to apply my diverse skills and knowledge across different domains, with a particular focus on technology-driven problem-solving and innovation.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
