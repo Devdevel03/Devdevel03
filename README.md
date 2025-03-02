@@ -43,3 +43,7 @@ My journey in computer science has sparked a strong interest in cybersecurity, w
 ## Projects
 - Eshop front end
 - Client server application
+- Distributed booking application 
+- Slot Machine
+- Movie App
+- Contact Manager backend application
