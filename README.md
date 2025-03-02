@@ -14,6 +14,7 @@ My journey in computer science has sparked a strong interest in cybersecurity, w
 | python,socket programming         | <a href="https://github.com/Devdevel03/Client-Server">Client Server application</a>|
 | java, socket programming, thread programming, java networking         | <a href="https://github.com/Devdevel03/Distributed-booking-application">Distributed booking application</a>|
 | java script, RNG | <a href="https://github.com/Devdevel03/Slot-Machine">Slot Machine</a>|
+| java script, React, html, css, API | <a href="https://github.com/Devdevel03/Movie-App">Movie App</a>|
 
 
 ## Tools
